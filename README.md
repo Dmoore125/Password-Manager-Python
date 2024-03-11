@@ -9,7 +9,7 @@ Simple Python Password Manager
 
 ### Demonstration
 
-1. 1 = Create account
+1  1 = Create account
 2. 2= log in
-3. 3= Exit program
+3. 0= Exit program
  ![Password Manager Python](https://github.com/Dmoore125/Password-Manager-Python/assets/162640561/4c195d1d-a3a0-43f2-ab76-8170382d47e3)
